@@ -19,6 +19,7 @@
       <mapping ext="hiro" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="kanji" type="PLAIN_TEXT" />
+      <mapping ext="qif" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
     </extensionMap>
