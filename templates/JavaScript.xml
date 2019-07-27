@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="react" value="import React, { Component } from 'react';&#10;import BEM from '@eventstag/bem';&#10;import PropTypes from 'prop-types';&#10;import './$classname$.pcss';&#10;&#10;const bem = new BEM('$classname$');&#10;&#10;class $classname$ extends Component {&#10;    render() {&#10;        return (&#10;            &lt;div className={bem.block()}&gt;&lt;/div&gt;&#10;        );&#10;    }&#10;}&#10;&#10;$classname$.defaultProps = {&#10;};&#10;&#10;$classname$.propTypes = {&#10;};&#10;&#10;export default $classname$;&#10;" description="Generates the basic Eventstag React template" toReformat="false" toShortenFQNames="true">
+    <variable name="classname" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="hooks" value="import React from 'react';&#10;import { connect } from 'react-redux';&#10;import BEM from '@eventstag/bem';&#10;import PropTypes from 'prop-types';&#10;import './$classname$.pcss';&#10;&#10;const bem = new BEM('$classname$');&#10;&#10;const $classname$ = () =&gt; {&#10;    return &lt;div className={bem.block()}&gt;&lt;/div&gt;;&#10;}&#10;&#10;$classname$.defaultProps = {&#10;};&#10;&#10;$classname$.propTypes = {&#10;};&#10;&#10;const mapStateToProps = () =&gt; ({})&#10;&#10;export default connect(mapStateToProps)($classname$);&#10;" description="Generates a React functional component, which could potentially use hooks." toReformat="false" toShortenFQNames="true">
+    <variable name="classname" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

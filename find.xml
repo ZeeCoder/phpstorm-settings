@@ -3,24 +3,19 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*.tw</mask>
-      <mask>*.twig</mask>
-      <mask>*.twig.</mask>
-      <mask>*.twig.html</mask>
-      <mask>*.p</mask>
-      <mask>*.pcs</mask>
-      <mask>*.pcss</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>nsion</mask>
+    <mask>*.twig</mask>
+    <mask>*.md</mask>
+    <mask>*.less</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
