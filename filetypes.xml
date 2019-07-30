@@ -22,6 +22,7 @@
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="kanji" type="PLAIN_TEXT" />
       <mapping ext="qif" type="PLAIN_TEXT" />
+      <mapping ext="pcss" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
