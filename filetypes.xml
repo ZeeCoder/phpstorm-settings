@@ -6,27 +6,27 @@
       <mapping pattern="CustomisationGuide" type="Markdown" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="sendkeys" type="PLAIN_TEXT" />
       <mapping pattern="photo-booth-management" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
       <mapping pattern=".size-limit" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
-      <mapping pattern="sendkeys" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="expires" type="PLAIN_TEXT" />
       <mapping pattern="browserslist" type="PLAIN_TEXT" />
-      <mapping ext="vpc" type="PLAIN_TEXT" />
+      <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="hiro" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="hiro" type="PLAIN_TEXT" />
       <mapping ext="kanji" type="PLAIN_TEXT" />
+      <mapping ext="vpc" type="PLAIN_TEXT" />
       <mapping ext="qif" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="patt" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
