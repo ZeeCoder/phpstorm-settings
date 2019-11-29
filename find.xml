@@ -16,6 +16,7 @@
     <mask>*.md</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
     <mask>*.php</mask>
   </component>
 </application>
